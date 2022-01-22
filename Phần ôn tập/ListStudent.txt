@@ -1,0 +1,201 @@
+40
+120008
+Nguyen Phuong Anh
+Nu
+8.0
+9.6
+120015
+Lam Tuan Canh
+Nam
+7.2
+9.1
+120019
+Tran Quoc Cuong
+Nam
+4.6
+5.2
+120021
+Dang Quoc Danh
+Nam
+7.0
+8.2
+120023
+Tran Van Dinh
+Nam
+6.0
+7.0
+120030
+Tran Do Quynh Duyen
+Nu
+8.0
+9.0
+120032
+Nguyen Thi Thuy Duong
+Nu
+5.0
+8.0
+120039
+Tran Thi Hoa Anh Dao
+Nu
+9.0
+7.0
+120050
+Nguyen Thi Diem Ha
+Nu
+6.0
+4.0
+120063
+Nguyen Thi Ngoc Hien
+Nu
+6.0
+8.0
+120074
+Huynh Van Hung
+Nam
+8.0
+4.0
+120095
+Doan Huu Khanh
+Nam
+4.0
+2.0
+120100
+Ly Anh Kiet
+Nam
+7.0
+5.0
+120112
+Nguyen Hoang Khanh Linh
+Nu
+7.0
+5.0
+120130
+Nguyen Hai Nam
+Nam
+3.0
+5.0
+120142
+Bui Ngoc Ngan
+Nu
+4.0
+6.0
+120147
+Quach Minh Ngoc
+Nam
+6.0
+7.0
+120148
+Tran Nhu Ngoc
+Nu
+7.0
+8.0
+120159
+Mai Tuyet Nhi
+Nu
+7.0
+7.0
+120164
+Le Tu Yen Nhi
+Nu
+4.0
+5.0
+120165
+Nguyen Ngoc Bich Nhu
+Nu
+8.0
+8.0
+120186
+Truong Vinh Phuc
+Nam
+4.0
+8.0
+120187
+Nguyen Gia Huu Phuoc
+Nam
+8.0
+9.0
+120189
+Pham Tran Hang Phuong
+Nu
+6.0
+7.0
+120199
+Ha Thuc Tu Quy
+Nam
+8.0
+7.0
+120205
+Vu Nhu Quynh
+Nu
+6.0
+7.0
+120207
+Luong Thi Sinh
+Nu
+6.0
+5.0
+120214
+Ly Le Tam
+Nu
+6.0
+7.0
+120223
+Nguyen Tat Thanh
+Nam
+7.0
+8.0
+120231
+Nguyen Huu Thang
+Nam
+7
+8
+120239
+Tran Quoc Thinh
+Nam
+6.0
+7.0
+120243
+Mai Thi Thuy
+Nu
+6.0
+7.0
+120247
+Thai Hoang Anh Thu
+Nu
+5.0
+6.0
+120276
+Nguyen Nha Truc
+Nu
+8.0
+9.0
+120279
+Nguyen Thi Thanh Truc
+Nu
+5.0
+6.0
+120289
+Phan Hoang Thai Tu
+Nam
+5.0
+2.0
+120299
+Nguyen Dang Hong Vu
+Nam
+3.0
+2.0
+120300
+Tran Thanh Vu
+Nam
+5.4
+7.3
+120307
+Hoang Thuy Vy
+Nu
+6.7
+7.0
+120315
+Nguyen Thi Nhu Y
+Nu
+3.0
+6.0
