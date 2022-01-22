@@ -1,10 +1,11 @@
 ﻿/*
- - Group : 1
-    + 2001216199 - Nguyễn Minh Thư (Nhóm trưởng)
-    + 2001215790 - Nguyễn Huy Hoàng
-    + 2001215664 - Nguyễn Công Dũng
-    + 2001216306 - Lê Thị Khánh Vân
- - Last modify : 20:00 - 22/01/2022
+- BT Nhóm : Tuần 10
+- Group : 1
++ 2001216199 - Nguyễn Minh Thư (Nhóm trưởng)
++ 2001215790 - Nguyễn Huy Hoàng
++ 2001215664 - Nguyễn Công Dũng
++ 2001216306 - Lê Thị Khánh Vân
+- Last modify : 23:00 - 22/01/2022
 */
 //Declare Library
 #include <iostream>
@@ -542,7 +543,7 @@ void deleteTheInformationOfStudentsByName(Student student[], int& n, string name
     int temp;
     for (int i = 0; i < n; i++) {
         temp = student[i].FullName.rfind(name);
-        if (temp != NULL) {
+        if (temp != string::npos) {
             if (student[i].FullName.length() - temp == name.length()) {
                 deleteASubjectAtK(student, n, i);
                 i--;
