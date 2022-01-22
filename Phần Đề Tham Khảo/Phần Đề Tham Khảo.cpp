@@ -398,7 +398,7 @@ void findAddressStore(Store store[], int n, string address) {
 int countTheStoresHavingCapacityMoreThan400(Store store[], int n) {
 	int count = 0;
 	for (int i = 0; i < n; i++) {
-		if (store[i].Capacity >= 400) {
+		if (store[i].Capacity == 400) {
 			count++;
 		}
 	}
